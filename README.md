@@ -8,6 +8,6 @@ For that we can separate the mass variables in several bins, in this specific si
 
 For each of these bins, we can calculate the CDF of the $\sigma_{m}/m$, and choose one bin with a reference CDF. Then we can use the CDF and morph each bin into the reference CDF. In doing that, every mass bin will have the same $\sigma_{m}/m$ distribution, and thus, the variables will not be correlated anymore.
 
-Disclaimer: This code was not developed by me, I just adapted it, and worked on more plotting algorithms, this repo objective is just to keep the code.
+Disclaimer: This code was not developed by me, I just adapted it to made it run on .parquet files. Also worked on more plotting script, this repo objective is just to keep the code.
 
 More details in: https://www.research-collection.ethz.ch/handle/20.500.11850/579650
